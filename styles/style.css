@@ -4,10 +4,10 @@
 }
 .main{
     width: 100%;
+    border: none;
 }
 .goals{
     width: 90%;
-    height: 90vh;
     border: 1px solid red;
     display: flex;
     flex-direction: column;
